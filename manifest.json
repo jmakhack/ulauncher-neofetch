@@ -10,7 +10,7 @@
             "type": "keyword",
             "name": "Neofetch",
             "description": "Run the neofetch command",
-            "default_value": "nf"
+            "default_value": "Neofetch"
         },
         {
             "id": "neofetch-terminal",
