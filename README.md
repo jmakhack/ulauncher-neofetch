@@ -10,7 +10,9 @@ In the Ulauncher preferences:
 ![ulauncher-neofetch-extension-url](https://user-images.githubusercontent.com/1442227/178094124-47d38b3b-7885-4321-99f5-131ceba21478.png)
 
 # Dependencies
+- ![Ulauncher](https://ulauncher.io/)
 - ![neofetch](https://github.com/dylanaraps/neofetch)
+- Any terminal emulator (i.e. ![Alacritty](https://alacritty.org/))
 
 # Configuration
 ![ulauncher-neofetch-configuration](https://user-images.githubusercontent.com/1442227/178093615-1d941a82-6ff3-468f-8b1f-eb6f3fdad52a.png)
