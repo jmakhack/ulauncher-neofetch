@@ -1,43 +1,23 @@
 {
     "required_api_version": "^2.0.0",
-    "name": "Terminal Runner",
-    "description": "An extension that let's you run commands on a gui terminal",
-    "developer_name": "lighttigerXIV",
-    "icon": "images/icon.png",
-    "options": {
-        "query_debounce": 0.05
-    },
+    "name": "Neofetch Runner",
+    "description": "An extension that runs the neofetch command in a gui terminal",
+    "developer_name": "jmakhack",
+    "icon": "assets/images/icon.png",
     "preferences": [
         {
-            "id": "kw",
-            "type": "keyword",
-            "name": "Run",
-            "description": "",
-            "default_value": ">"
-        },
-        {
-            "id": "term",
+            "id": "neofetch-terminal",
             "type": "text",
             "name": "Terminal",
-            "description": "The terminal that will be used",
-            "default_value": "/bin/gnome-terminal"
+            "description": "The terminal to run the neofetch command with",
+            "default_value": "/bin/alacritty"
         },
         {
-            "id": "exec",
+            "id": "neofetch-executing-parameter",
             "type": "text",
             "name": "Executing Parameter",
-            "description": "The parameter your terminal uses to execute commands",
-            "default_value": "--"
-        },
-        {
-            "id": "icon",
-            "type": "select",
-            "name": "Icon style",
-            "default_value": "black",
-            "options": [
-                {"text": "Black icon", "value": "black"},
-                {"text": "White icon", "value": "white"}
-            ]
+            "description": "The parameter that the terminal uses to execute commands",
+            "default_value": "-e"
         }
     ]
 }
