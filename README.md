@@ -5,9 +5,9 @@ This ![Ulauncher](https://ulauncher.io/) extension allows users to easily run th
 In the Ulauncher preferences:
 1. Open the `EXTENSIONS` tab
 2. Click on `+ Add extension` in the side panel
-3. In the pop-up modal, enter the URL of this repository: `https://github.com/jmakhack/ulauncher-neofetch`
+3. In the pop-up modal, enter the URL of this repository: `https://github.com/jmakhack/ulauncher-neofetch-runner`
 
-![ulauncher-neofetch-extension-url](https://user-images.githubusercontent.com/1442227/177973453-fcaaafd5-7c86-45b6-bad5-113c1b96c4d0.png)
+![ulauncher-neofetch-extension-url](https://user-images.githubusercontent.com/1442227/178094124-47d38b3b-7885-4321-99f5-131ceba21478.png)
 
 # Dependencies
 - ![neofetch](https://github.com/dylanaraps/neofetch)
