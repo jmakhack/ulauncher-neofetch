@@ -1,8 +1,16 @@
-# About  
-This extension let's you run your commands in a gui terminal.  
-For whatever reason most of the terminal extensions didn't work so i decided to make my own.
+# ulauncher-neofetch-runner
+This ![Ulauncher](https://ulauncher.io/) extension allows users to easily run the ever so famous neofetch command at will.
 
 # Installation
-Just go to ulauncher extensions tab and paste the repo link to it.
+In the Ulauncher preferences:
+1. Open the `EXTENSIONS` tab
+2. Click on `+ Add extension` in the side panel
+3. In the pop-up modal, enter the URL of this repository: `https://github.com/jmakhack/ulauncher-neofetch`
 
-    https://github.com/lighttigerXIV/ulauncher-terminal-runner-extension/
+![ulauncher-neofetch-extension-url](https://user-images.githubusercontent.com/1442227/177973453-fcaaafd5-7c86-45b6-bad5-113c1b96c4d0.png)
+
+# Dependencies
+- ![neofetch](https://github.com/dylanaraps/neofetch)
+
+# Configuration
+![ulauncher-neofetch-configuration](https://user-images.githubusercontent.com/1442227/178086112-1bdda542-e729-42cc-b140-a8d5a3f873ae.png)
