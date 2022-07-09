@@ -13,4 +13,5 @@ In the Ulauncher preferences:
 - ![neofetch](https://github.com/dylanaraps/neofetch)
 
 # Configuration
-![ulauncher-neofetch-configuration](https://user-images.githubusercontent.com/1442227/178086112-1bdda542-e729-42cc-b140-a8d5a3f873ae.png)
+![ulauncher-neofetch-configuration](https://user-images.githubusercontent.com/1442227/178093423-26512a9b-85ac-4b51-8a59-d41b3aaad002.png)
+Note: The `Neotfetch keyword` configuration field can be ignored
