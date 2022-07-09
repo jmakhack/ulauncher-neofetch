@@ -6,6 +6,13 @@
     "icon": "assets/images/icon.png",
     "preferences": [
         {
+            "id": "neofetch-keyword",
+            "type": "keyword",
+            "name": "Neofetch",
+            "description": "Run the neofetch command",
+            "default_value": "nf"
+        },
+        {
             "id": "neofetch-terminal",
             "type": "text",
             "name": "Terminal",
@@ -15,7 +22,7 @@
         {
             "id": "neofetch-executing-parameter",
             "type": "text",
-            "name": "Executing Parameter",
+            "name": "Executing parameter",
             "description": "The parameter that the terminal uses to execute commands",
             "default_value": "-e"
         }
